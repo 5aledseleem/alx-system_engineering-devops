@@ -1,1 +1,2 @@
-mv iamafile
+#!/bin/bash
+file /tmp/iamafile
